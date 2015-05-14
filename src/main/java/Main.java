@@ -6,7 +6,7 @@ public class Main {
 testMethodOne(10,30);
 	}
 
-	public double testMethodOne(int a, int b) {
+	public static double testMethodOne(int a, int b) {
         return a/b;
     }
 	}
